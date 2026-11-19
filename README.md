@@ -29,11 +29,11 @@ You can install the .exe file in two different ways:
 1. Open the CMD.
 2. Run the following command to download the executable:
 ```bash
-curl -L -o Space.2048.V1.0.exe https://github.com/NPone29/space-2048/releases/download/V1.0/Space.2048.V1.0.exe 
+curl -L -o Space.2048.V1.0.exe https://github.com/NPone29/space-2048/releases/latest/download/Space.2048.V1.0.exe 
 ```
 
 ## Installation by downloading the file
-1. Click on our release link: https://github.com/NPone29/space-2048/releases/tag/V1.0
+1. Click on our release link: https://github.com/NPone29/space-2048/releases/latest
 2. Download the .exe file.
 
 ### Launching the game
